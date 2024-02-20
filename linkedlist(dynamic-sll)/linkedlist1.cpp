@@ -1,3 +1,4 @@
+// small
 #include <iostream>
 
 // Node class for a singly linked list
